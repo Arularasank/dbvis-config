@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keybindings name="Default-Copy" parent="$default$" active="true">
+  <bind>
+    <action-id>execute-current-command</action-id>
+    <key>ctrl pressed PERIOD</key>
+  </bind>
+  <bind>
+    <action-id>execute-current-command</action-id>
+    <key>pressed F8</key>
+  </bind>
+</keybindings>
